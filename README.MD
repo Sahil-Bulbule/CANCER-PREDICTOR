@@ -4,7 +4,7 @@ An AI-powered healthcare analytics application that predicts cancer risk using M
  
 ✨ Features     
 • Data Preprocessing & Feature Engineering
-• Logistic Regression-based Prediction Model
+• Logistic Regression-based Prediction Model  
 • Real-time Cancer Risk Assessment   
 • AI Confidence Scoring  
 • Clinical Severity Analysis
