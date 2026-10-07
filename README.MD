@@ -1,6 +1,6 @@
 🧬 Cancer Risk Prediction System
 
-An AI-powered healthcare analytics application that predicts cancer risk using Machine Learning and provides real-time clinical insights through an interactive Streamlit dashboard.
+An AI-powered healthcare analytics application that predicts cancer risk using Machine Learning and provides real-time clinical insights through an interactive Streamlit dashboard. 
  
 ✨ Features     
 • Data Preprocessing & Feature Engineering 
