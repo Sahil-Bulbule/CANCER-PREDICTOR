@@ -10,7 +10,7 @@ An AI-powered healthcare analytics application that predicts cancer risk using M
 • Clinical Severity Analysis
 • Interactive Streamlit Dashboard
 • Patient Summary & Recommendations
-
+ 
 🛠 Tech Stack
 • Python
 • Pandas
