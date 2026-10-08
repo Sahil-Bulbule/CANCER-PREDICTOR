@@ -3,7 +3,7 @@
 An AI-powered healthcare analytics application that predicts cancer risk using Machine Learning and provides real-time clinical insights through an interactive Streamlit dashboard. 
   
 ✨ Features        
-• Data Preprocessing & Feature Engineering 
+• Data Preprocessing & Feature Engineering  
 • Logistic Regression-based Prediction Model    
 • Real-time Cancer Risk Assessment   
 • AI Confidence Scoring   
