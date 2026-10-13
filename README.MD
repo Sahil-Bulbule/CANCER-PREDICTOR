@@ -13,7 +13,7 @@ An AI-powered healthcare analytics application that predicts cancer risk using M
  
 🛠 Tech Stack
 • Python
-• Pandas
+• Pandas. 
 • NumPy
 • Scikit-Learn
 • Streamlit
