@@ -12,7 +12,7 @@ An AI-powered healthcare analytics application that predicts cancer risk using M
 • Patient Summary & Recommendations
  
 🛠 Tech Stack
-• Python
+• Python. 
 • Pandas. 
 • NumPy
 • Scikit-Learn
