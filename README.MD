@@ -15,7 +15,7 @@ An AI-powered healthcare analytics application that predicts cancer risk using M
 • Python. 
 • Pandas. 
 • NumPy
-• Scikit-Learn
+• Scikit-Learn.   
 • Streamlit
 • Joblib
 
