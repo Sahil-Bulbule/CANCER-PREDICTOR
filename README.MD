@@ -11,7 +11,7 @@ An AI-powered healthcare analytics application that predicts cancer risk using M
 • Interactive Streamlit Dashboard       
 • Patient Summary & Recommendations 
    
-🛠 Tech Stack
+🛠 Tech Stack  
 • Python. 
 • Pandas. 
 • NumPy
