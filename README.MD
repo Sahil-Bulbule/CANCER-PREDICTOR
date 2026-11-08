@@ -8,7 +8,7 @@ An AI-powered healthcare analytics application that predicts cancer risk using M
 • Real-time Cancer Risk Assessment   
 • AI Confidence Scoring          
 • Clinical Severity Analysis     
-• Interactive Streamlit Dashboard    
+• Interactive Streamlit Dashboard     
 • Patient Summary & Recommendations 
    
 🛠 Tech Stack
